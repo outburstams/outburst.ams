@@ -11,6 +11,8 @@
 @import 'blocks/header.scss';
 @import 'blocks/info.scss';
 @import 'blocks/showcase.scss';
+@import 'blocks/section.scss';
+@import 'blocks/bg.scss';
 
 /* components */
 @import 'components/nav.scss';

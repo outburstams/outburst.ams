@@ -14,7 +14,7 @@ header {
 }
 
 .info {
-  grid-column: 2 / -2;
+  grid-column: 2 / -3;
 }
 
 .faq {
@@ -23,5 +23,5 @@ header {
 
 section {
   grid-column: 2 / -2;
-  margin: var(--s-m) 0;
+  margin: $p-l 0;
 }

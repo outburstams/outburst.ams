@@ -1,0 +1,17 @@
+.background {
+  img:nth-child(1) {
+    position: absolute;
+    top: 60%;
+    right: -10%;
+    transform: scale(2);
+    opacity: 0.05;
+  }
+
+  img:nth-child(2) {
+    position: absolute;
+    top: 120%;
+    left: -10%;
+    transform: scale(1.8);
+    opacity: 0.05;
+  }
+}

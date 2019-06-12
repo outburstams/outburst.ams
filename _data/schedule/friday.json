@@ -1,0 +1,85 @@
+{
+  "event1": {
+    "time": "9:00 - 9:15",
+    "location": "Beyet",
+    "title": "Opening bijeenkomst DCA",
+    "who": "DCA"
+  },
+  "event2": {
+    "time": "9:15 - 10:00",
+    "location": "Beyet of theater",
+    "title": "Keynote  DCA",
+    "who": "DCA"
+  },
+  "event3": {
+    "time": "10:00 - 11:00",
+    "location": "Theater",
+    "title": "Parallelsessie 1",
+    "who": "DCA"
+  },
+  "event4": {
+    "time": "11:00 - 12:00",
+    "location": "Theater",
+    "title": "Parallelsessie 2",
+    "who": "DCA"
+  },
+  "event5": {
+    "time": "12:00 - 17:00",
+    "location": "AoA",
+    "title": "Doorlopende expositie van de topstukken."
+  },
+  "event6": {
+    "time": "12:00 - 13:00",
+    "location": "Plein & AoA",
+    "title": "Lunch DCA met gelegenheid tot het bezoeken van de expositie",
+    "who": "DCA"
+  },
+  "event7": {
+    "time": "12:00 - 20:00",
+    "location": "Dome",
+    "title": "Expositie HBO-ICT",
+    "who": "HBO-ICT"
+  },
+  "event8": {
+    "time": "12:00 - 20:00",
+    "location": "Dome2",
+    "title": "Expositie MDD",
+    "who": "MDD"
+  },
+  "event9": {
+    "time": "12:00 - 20:00",
+    "location": "Arena",
+    "title": "Expositie Kenniscentrum",
+    "who": "Kenniscentrum"
+  },
+  "event10": {
+    "time": "13:00 - 13:45",
+    "location": "Theater",
+    "title": "Tweede Keynote DCA",
+    "who": "DCA"
+  },
+  "event11": {
+    "time": "13:45 - 14:15",
+    "location": "Theater",
+    "title": "Wrap up/besluit DCA",
+    "who": "DCA"
+  },
+  "event12": {
+    "time": "15.00 - 17.00",
+    "location": "Plaats?",
+    "title": "Diplomering MDD",
+    "who": "MDD"
+  },
+  "event13": {
+    "time": "00.00 - 00.00",
+    "location": "Amfi",
+    "title": "Diplomering Amfi",
+    "who": "Amfi"
+  },
+  "event14": {
+    "time": "17.00 - 20.00",
+    "location": "Plaats?",
+    "title": "Slotfeest/borrel",
+    "who": "Allen"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "event1": {
+    "time": "10:00 - 11:00",
+    "location": "Studio HvA",
+    "title": "Digital Detox Meditation. Do you need a moment off screen|? To have a minute for yourself which might contribute in making the world better as well? Join us for a guided meditation session. Please come with comfortable clothes and welling to stop and reflect. See you!",
+    "who": "DSS: Sobhi Khatib and Zlatina Tsvetkova"
+  },
+  "event2": {
+    "time": "12:00 - 17:00",
+    "location": "Studio HvA",
+    "title": "Life of a Digital Transformation Designers will Show & Tell about their work. The Digital Transformation Designers of the Digital Society School will show and tell about their work. One can expect a variety of installations, prototypes and visualisations representing research output of last year.",
+    "who": "DSS"
+  },
+  "event3": {
+    "time": "12:00 - 20:00",
+    "location": "AoA",
+    "title": "Doorlopende expositie"
+  },
+  "event4": {
+    "time": "12:00 - 20:00",
+    "location": "Dome",
+    "title": "VR experience HBO-ICT",
+    "who": "HBO-ICT"
+  },
+  "event5": {
+    "time": "12:00 - 20:00",
+    "location": "Dome2",
+    "title": "Expositie MDD",
+    "who": "MDD"
+  },
+  "event6": {
+    "time": "12:00 - 20:00",
+    "location": "Arena",
+    "title": "Expositie Kenniscentrum",
+    "who": "Kenniscentrum"
+  },
+  "event7": {
+    "time": "13:00 - 14:00",
+    "location": "Theater 1",
+    "title": "Lector Cross Media Harry van Vliet met een lezing over de Festival Atlas",
+    "who": "Kenniscentrum"
+  },
+  "event8": {
+    "time": "15:00 - 16:30",
+    "location": "Beyet",
+    "title": "Spreker Pascal Wigger over Artificial Intelligence.",
+    "who": "HBO-ICT"
+  },
+  "event9": {
+    "time": "16:00 - 16:30",
+    "location": "Studio HvA",
+    "title": "Get Energized, Digital Society School Snacks & Energizers An energizer is an energy-booster. It is commonly used as an ice-breaker to get to know people and meet who is around you. In a working environment, it can be used to clear everybody’s heads of negative energy and take a break. Energizers play a vital part in the SCREAM methodology developed by the Digital Society School and are a great way to create a community and safe working environment.",
+    "who": "DSS"
+  },
+  "event10": {
+    "time": "16:30 - 17:00",
+    "location": "Plein + Beyet",
+    "title": "Inloop gasten HBO-ICT",
+    "who": "HBO-ICT"
+  },
+  "event11": {
+    "time": "17:00 - 18:00",
+    "location": "Beyet",
+    "title": "Debat HBO-ICT",
+    "who": "HBO-ICT"
+  },
+  "event12": {
+    "time": "17:00 - 19:00",
+    "location": "Theater 1",
+    "title": "Meetup Co-organized MDD and MAB with UNStudio + drinks",
+    "who": "MDD"
+  },
+  "event13": {
+    "time": "18:00 - 19:00",
+    "location": "Plein",
+    "title": "Borrel HBO-ICT",
+    "who": "HBO-ICT"
+  },
+  "event14": {
+    "time": "19:00 - 21:00",
+    "location": "Plein",
+    "title": "Campfire talks voor ongeveer 25-35 gasten.",
+    "who": "MDD"
+  }
+}

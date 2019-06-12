@@ -1,7 +1,10 @@
 {
   "event1": {
     "time": "17:00 - 17:45",
-    "location": "Dome",
+    "location":  {
+      "title": "Dome",
+      "link": "http://www.amsterdamuas.com/locations/hva-locations/theo-thijssen-building.html?origin=70GMF5SRSdSq84xbw2MUIw"
+    },
     "title": "Ontvangst genodigden met hapje en drankje."
   },
   "event2": {

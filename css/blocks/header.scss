@@ -1,5 +1,24 @@
 header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5vh;
+}
+
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 50%;
+}
+
+.right {
   text-align: right;
+  width: 50%;
+}
+
+header h1 {
+  font-size: 4em;
 }
 
 header h2 {
@@ -10,4 +29,17 @@ header time {
   font-family: 'Cocogoose-Condensed', sans-serif;
   font-size: 2.3em;
   color: $primary;
+}
+
+.left span {
+  position: absolute;
+}
+
+span {
+  font-family: 'Cocogoose-Condensed', sans-serif;
+  font-size: 8em;
+  line-height: 0.8;
+  color: $primary;
+  text-transform: uppercase;
+  margin-left: 8vw;
 }

@@ -3,3 +3,7 @@ article {
   color: $secondary;
   padding: $p-m;
 }
+
+article:not(:last-child) {
+  margin-right: $p-l;
+}

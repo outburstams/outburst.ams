@@ -6,8 +6,13 @@
 @import 'config/_reset.scss';
 @import 'config/_layout.scss';
 
-/* Components */
-@import 'components/header.scss';
+/* blocks */
+@import 'blocks/faq.scss';
+@import 'blocks/header.scss';
+@import 'blocks/info.scss';
+@import 'blocks/showcase.scss';
+
+/* components */
 @import 'components/nav.scss';
 @import 'components/button.scss';
 

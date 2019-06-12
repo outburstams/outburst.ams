@@ -1,5 +1,27 @@
-main {
-  max-width: 38rem;
-  padding: 1.5rem;
-  margin: auto;
+body {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  margin-bottom: 10vh;
+  margin-top: 10vh;
+}
+
+header {
+  grid-column: 4 / -2;
+}
+
+.showcase {
+  grid-column: 2 / -2;
+}
+
+.info {
+  grid-column: 2 / -2;
+}
+
+.faq {
+  grid-column: 2 / -2;
+}
+
+section {
+  grid-column: 2 / -2;
+  margin: var(--s-m) 0;
 }

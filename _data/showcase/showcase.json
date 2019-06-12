@@ -1,0 +1,30 @@
+{
+  "showcase1": {
+    "img": "/static/img/showcase.png",
+    "title": "Digital Society School",
+    "description": "The Digital Transformation Designers of the Digital Society School will show and tell about their work",
+    "location": "Studio HvA",
+    "date": "2th July"
+  },
+  "showcase2": {
+    "img": "/static/img/showcase.png",
+    "title": "Golden Dot Awards",
+    "description": "CMD Amsterda awards its very best student work at the Golden Dot Awards (GDA). ",
+    "location": "Studio HvA",
+    "date": "3th July"
+  },
+  "showcase3": {
+    "img": "/static/img/showcase.png",
+    "title": "Kenniscentrum",
+    "description": "Lector Cross Media Harry van Vliet met een lezing over de Festival Atlas",
+    "location": "Kenniscentrum",
+    "date": "2th July"
+  },
+  "showcase4": {
+    "img": "/static/img/showcase.png",
+    "title": "Expositie & VR Experience",
+    "description": "Expositie van alle afstudeerwerken van HBO-ICT",
+    "location": "Dome",
+    "date": "3th July"
+  }
+}

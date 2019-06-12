@@ -2,59 +2,61 @@
   "event1": {
     "time": "12:00 - 17:00",
     "location": "Studio HvA",
-    "title": "Life of a Digital Transformation Designers will Show & Tell about their work. The Digital Transformation Designers of the Digital Society School will show and tell about their work. One can expect a variety of installations, prototypes and visualisations representing research output of last year.",
-    "who": "DSS"
+    "title": "Life of a Digital Transformation Designers",
+    "organisation": "DSS"
   },
   "event2": {
     "time": "12:00 - 20:00",
     "location": "AoA",
-    "title": "Doorlopende expositie"
+    "title": "Doorlopende expositie",
+    "organisation": "?"
   },
   "event3": {
     "time": "12:00 - 20:30",
     "location": "Dome",
     "title": "VR experience HBO-ICT",
-    "who": "HBO-ICT"
+    "organisation": "HBO-ICT"
   },
   "event4": {
     "time": "12:00 - 20:00",
     "location": "Dome2",
     "title": "Expositie MDD",
-    "who": "MDD"
+    "organisation": "MDD"
   },
   "event5": {
     "time": "12:00 - 20:00",
     "location": "Arena",
     "title": "Expositie Kenniscentrum",
-    "who": "Kenniscentrum"
+    "organisation": "Kenniscentrum"
   },
   "event6": {
     "time": "13:30 - 16:00",
     "location": "Studio HvA",
-    "title": "Workshop Sustainable Development Goals and Design Method Toolkit by Anneke van Woerden and Felipe Escobar ",
-    "who": "DSS"
+    "title": "Workshop Sustainable Development Goals and Design Method Toolkit ",
+    "organisation": "DSS"
   },
   "event7": {
     "time": "16:00 - 16:30",
     "location": "Studio HvA",
-    "title": "Get Energized, Digital Society School Snacks & Energizers. An energizer is an energy-booster. It is commonly used as an ice-breaker to get to know people and meet who is around you. In a working environment, it can be used to clear everybody’s heads of negative energy and take a break. Energizers play a vital part in the SCREAM methodology developed by the Digital Society School and are a great way to create a community and safe working environment.",
-    "who": "DSS"
+    "title": "Get Energized",
+    "organisation": "DSS"
   },
   "event8": {
     "time": "18:00 - 19:00",
     "location": "Dome & KSH",
-    "title": "Ontvangst gasten Golden Dot Award met een hapje en een drankje. Gelegenheid om de werken van genomineerden te zien.",
-    "who": "CMD"
+    "title": "Ontvangst gasten Golden Dot Award met een hapje en een drankje",
+    "organisation": "CMD"
   },
   "event9": {
     "time": "19:00 - 20:00",
     "location": "Beyet",
     "title": "Plenair programma inclusief uitreiking prijzen",
-    "who": "CMD"
+    "organisation": "CMD"
   },
   "event10": {
     "time": "20:00 - 21:00",
     "location": "AoA & KSH",
-    "title": "Borrel en gelegenheid tot het bekijken van de topstukken expositie"
+    "title": "Borrel en gelegenheid tot het bekijken van de topstukken expositie",
+    "organisation": "?"
   }
 }

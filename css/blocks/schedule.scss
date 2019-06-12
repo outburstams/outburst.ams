@@ -1,0 +1,15 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td {
+  padding: $p-m;
+  border: solid 0.2rem $black;
+}
+
+table th {
+  background: $black;
+  color: $secondary;
+  height: 5vh;
+}

@@ -5,6 +5,7 @@
 @import 'config/_states.scss';
 @import 'config/_reset.scss';
 @import 'config/_layout.scss';
+@import 'config/_animation.scss';
 
 /* blocks */
 @import 'blocks/faq.scss';

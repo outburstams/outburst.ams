@@ -14,6 +14,10 @@ header {
 }
 
 .info {
+  grid-column: 2 / -4;
+}
+
+.contact {
   grid-column: 4 / -2;
 }
 
@@ -22,10 +26,16 @@ header {
 }
 
 .locations {
-  grid-column: 2 / -4;
+  grid-column: 2 / -2;
 }
 
 section {
   grid-column: 2 / -2;
   margin: $p-l 0;
+}
+
+.container-block {
+  padding: $p-l;
+  width: 20vw;
+  background: $secondary;
 }

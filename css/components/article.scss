@@ -2,6 +2,11 @@ article {
   background: $primary;
   color: $secondary;
   padding: $p-m;
+  min-width: 25%;
+
+  a {
+    display: block;
+  }
 }
 
 article:not(:last-child) {

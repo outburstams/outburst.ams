@@ -1,30 +1,50 @@
 {
   "showcase1": {
-    "img": "/static/img/showcase.png",
+    "img": "/static/img/showcase/showcase-dss.jpg",
     "title": "Digital Society School",
     "description": "The Digital Transformation Designers of the Digital Society School will show and tell about their work",
     "location": "Studio HvA",
-    "date": "2th July"
+    "date": "2th July",
+    "link": "https://digitalsocietyschool.org/event/dss-program-during-outburst/"
   },
   "showcase2": {
-    "img": "/static/img/showcase.png",
+    "img": "/static/img/showcase/showcase-gda.jpg",
     "title": "Golden Dot Awards",
-    "description": "CMD Amsterda awards its very best student work at the Golden Dot Awards (GDA). ",
+    "description": "CMD Amsterdam awards its very best student work at the Golden Dot Awards (GDA). ",
     "location": "Studio HvA",
-    "date": "3th July"
+    "date": "3th July",
+    "link": "https://www.cmd-amsterdam.nl/gda-2019/"
   },
   "showcase3": {
     "img": "/static/img/showcase.png",
     "title": "Kenniscentrum",
     "description": "Lector Cross Media Harry van Vliet met een lezing over de Festival Atlas",
     "location": "Kenniscentrum",
-    "date": "2th July"
+    "date": "2th July",
+    "link": "http://www.hva.nl/onderzoek/hva-onderzoek/kenniscentra/kenniscentra.html"
   },
   "showcase4": {
     "img": "/static/img/showcase.png",
     "title": "Expositie & VR Experience",
-    "description": "Expositie van alle afstudeerwerken van HBO-ICT",
+    "description": "Expositie & VR Experience van alle afstudeerwerken van HBO-ICT",
     "location": "Dome",
-    "date": "3th July"
+    "date": "3th July",
+    "link": "http://www.hva.nl/opleiding/hbo-ict/hbo-ict.html"
+  },
+  "showcase5": {
+    "img": "/static/img/showcase/showcase-cb.jpg",
+    "title": "CO & CB: Graduation",
+    "description": "CO (Communication) and MIC (Media, Information and Communication, now known as CB (Creative Business)) students will receive their well-deserved diploma.",
+    "location": "Dome",
+    "date": "4th July",
+    "link": "http://www.hva.nl/opleiding/creative-business/creative-business.html"
+  },
+  "showcase6": {
+    "img": "/static/img/showcase/showcase-mdd.jpg",
+    "title": "Master Digital Design",
+    "description": "Showcase what has kept us busy throughout the year. Visit our exhibition and attend our events",
+    "location": "Dome",
+    "date": "2th - 5th July",
+    "link": "https://www.masterdigitaldesign.com/news/outburst"
   }
 }

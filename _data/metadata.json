@@ -1,11 +1,11 @@
 {
   "title": "Outburst - Unleash Creativity",
-  "author": "Danny de Vries",
-  "mail": "hi@dandevri.es",
+  "author": "Hogeschool van Amsterdam",
+  "mail": "communicatie-fdmci@hva.nl",
   "url": "https://outburst.amsterdam/",
-  "description": "Unleash Creativity",
+  "description": "Celebrating our most outstanding work in fashion, digital interactive design, media, communication and ICT. Outburst will take place from the 1st through the 5th of July 2019 at the Amsterdam University of Applied Sciences.",
   "theme": "#FF3717",
   "lang": "en_US",
-  "share": "/static/img/social/",
-  "social": "dandevri"
+  "share": "/static/img/share-image.jpg",
+  "social": "@outburst"
 }

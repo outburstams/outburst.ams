@@ -15,6 +15,7 @@
 @import 'blocks/section.scss';
 @import 'blocks/bg.scss';
 @import 'blocks/schedule.scss';
+@import 'blocks/logo.scss';
 
 /* components */
 @import 'components/nav.scss';

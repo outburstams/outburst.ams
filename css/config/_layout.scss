@@ -36,10 +36,14 @@ section {
 
 .container-block {
   padding: $p-l;
-  width: 20vw;
+  width: 25vw;
   background: $secondary;
 
   p {
     margin-bottom: $p-xl;
+  }
+
+  h3 {
+    margin-top: 0;
   }
 }

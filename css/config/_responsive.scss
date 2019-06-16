@@ -1,0 +1,46 @@
+@media screen and (max-width: 800px) {
+  body {
+    display: grid;
+    grid-template-columns: 5vw 1fr 5vw;
+
+    & > * {
+      grid-column: 2 / -1 !important;
+    }
+  }
+
+  .showcase,
+  .program,
+  .locations {
+    grid-column: 1 / -1 !important;
+  }
+
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+
+    .right {
+      text-align: left;
+      width: 90%;
+    }
+
+    .left {
+      width: 90%;
+    }
+
+    .display {
+      font-size: 15vw;
+    }
+  }
+
+  article {
+    max-width: 100%;
+  }
+
+  .container-block {
+    width: 80%;
+  }
+
+  .locations {
+    height: 50vh;
+  }
+}

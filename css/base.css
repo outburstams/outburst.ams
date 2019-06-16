@@ -27,4 +27,6 @@
 @import 'components/share.scss';
 @import 'components/hva-block.scss';
 
+@import 'config/_responsive.scss';
+
 @import-normalize;

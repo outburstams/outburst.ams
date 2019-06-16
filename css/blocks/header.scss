@@ -23,6 +23,7 @@ header h1 {
 
 header h2 {
   font-family: 'Cocogoose-Pro-Light', sans-serif;
+  font-size: 1.3em;
 }
 
 header time {
@@ -37,9 +38,13 @@ header time {
 
 .display {
   font-family: 'Cocogoose-Condensed', sans-serif;
-  font-size: 8em;
+  font-size: 5vw;
   line-height: 0.8;
   color: $primary;
   text-transform: uppercase;
   margin-left: 8vw;
+}
+
+.dynamic-logo {
+  transform: scale(1.2);
 }

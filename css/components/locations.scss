@@ -1,10 +1,8 @@
 .locations-list {
-  @mixin reset-list;
+  text-decoration: underline;
 
   li {
     font-size: 1.333em;
-    border-bottom: 1px solid $primary;
-    padding: $p-m 0;
-    width: 35vw;
+    line-height: 1.8;
   }
 }

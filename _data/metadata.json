@@ -6,6 +6,6 @@
   "description": "Celebrating our most outstanding work in fashion, digital interactive design, media, communication and ICT. Outburst will take place from the 1st through the 5th of July 2019 at the Amsterdam University of Applied Sciences.",
   "theme": "#FF3717",
   "lang": "en_US",
-  "share": "/static/img/share-image.jpg",
-  "social": "@outburst"
+  "share": "static/img/",
+  "social": "outburst"
 }

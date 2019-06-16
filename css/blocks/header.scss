@@ -31,25 +31,6 @@ header time {
   color: $primary;
 }
 
-.hva-block {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: $p-l;
-
-  .img-divider {
-    margin: 0 $p-m;
-  }
-
-  .img-title {
-    font-family: 'Cocogoose-Condensed', sans-serif;
-    text-transform: uppercase;
-  }
-}
-
 .left span {
   position: absolute;
 }

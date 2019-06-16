@@ -25,5 +25,6 @@
 @import 'components/quote.scss';
 @import 'components/locations.scss';
 @import 'components/share.scss';
+@import 'components/hva-block.scss';
 
 @import-normalize;

@@ -18,4 +18,12 @@ article {
   h4 {
     color: $primary;
   }
+
+  span {
+    // background: $primary;
+    color: $primary;
+    padding: $p-s;
+  }
+
+  @mixin transform-up;
 }

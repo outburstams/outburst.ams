@@ -6,7 +6,10 @@
 }
 
 .showcase {
-  background: $primary;
+  background-color: $primary;
+  background-image: url('/static/img/logo-light.svg'), url('/static/img/logo-light.svg');
+  background-position: -15% -20%, 110% 115%;
+  background-repeat: no-repeat;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   padding: 5vh 0;

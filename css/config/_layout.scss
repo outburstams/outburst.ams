@@ -1,12 +1,12 @@
 body {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  margin-bottom: 10vh;
-  margin-top: 10vh;
 }
 
 header {
   grid-column: 2 / -2;
+  margin-bottom: 10vh;
+  margin-top: 10vh;
 }
 
 .showcase {
@@ -38,4 +38,8 @@ section {
   padding: $p-l;
   width: 20vw;
   background: $secondary;
+
+  p {
+    margin-bottom: $p-xl;
+  }
 }

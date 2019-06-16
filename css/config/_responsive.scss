@@ -10,7 +10,8 @@
 
   .showcase,
   .program,
-  .locations {
+  .locations,
+  nav {
     grid-column: 1 / -1 !important;
   }
 
@@ -42,5 +43,20 @@
 
   .locations {
     height: 50vh;
+  }
+
+  nav {
+    flex-wrap: wrap;
+    height: 10vh;
+
+    img {
+      width: 40vw;
+    }
+
+    ul {
+      justify-content: space-around;
+      width: 100%;
+      margin-top: $p-m;
+    }
   }
 }

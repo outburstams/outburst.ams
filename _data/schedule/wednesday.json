@@ -8,8 +8,8 @@
   "event2": {
     "time": "12:00 - 20:00",
     "location": "AoA",
-    "title": "Doorlopende expositie",
-    "organisation": "?"
+    "title": "Interactive Exhibition throughout the day",
+    "organisation": "tbc"
   },
   "event3": {
     "time": "12:00 - 20:30",
@@ -20,14 +20,14 @@
   "event4": {
     "time": "12:00 - 20:00",
     "location": "Dome2",
-    "title": "Expositie MDD",
+    "title": "Exhibition MDD",
     "organisation": "MDD"
   },
   "event5": {
     "time": "12:00 - 20:00",
     "location": "Arena",
-    "title": "Expositie Kenniscentrum",
-    "organisation": "Kenniscentrum"
+    "title": "Exhibition Research Institute",
+    "organisation": "Research Institute"
   },
   "event6": {
     "time": "13:30 - 16:00",
@@ -38,25 +38,19 @@
   "event7": {
     "time": "16:00 - 16:30",
     "location": "Studio HvA",
-    "title": "Get Energized",
+    "title": "Get Energized, Digital Society School Snacks & Energizers",
     "organisation": "DSS"
   },
   "event8": {
-    "time": "18:00 - 19:00",
+    "time": "18:00 - 20:00",
     "location": "Dome & KSH",
-    "title": "Ontvangst gasten Golden Dot Award met een hapje en een drankje",
+    "title": "Golden Dot Awards, possibility to view the nominated projects",
     "organisation": "CMD"
   },
   "event9": {
-    "time": "19:00 - 20:00",
-    "location": "Beyet",
-    "title": "Plenair programma inclusief uitreiking prijzen",
-    "organisation": "CMD"
-  },
-  "event10": {
     "time": "20:00 - 21:00",
-    "location": "AoA & KSH",
-    "title": "Borrel en gelegenheid tot het bekijken van de topstukken expositie",
-    "organisation": "?"
+    "location": "AoA, KSH",
+    "title": "Drinks and possibility to visit the Interactive Exhibition in the Architects of Air",
+    "organisation": "CMD"
   }
 }

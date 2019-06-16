@@ -2,97 +2,67 @@
   "event1": {
     "time": "10:00 - 10:30",
     "location": "Beyet",
-    "title": "Plenaire sessie CO-CB",
+    "title": "Central presentation CO-CB",
     "organisation": "CO-CB"
   },
   "event2": {
     "time": "10:00 - 17:00",
-    "location": "WBH 02B01",
-    "title": "Diploma-uitreiking",
+    "location": "Varioius Locations",
+    "title": "Graduation",
     "organisation": "CO-CB"
   },
   "event3": {
-    "time": "11:00 - 17:30",
-    "location": "BPH 0B02",
-    "title": "Diploma-uitreiking",
+    "time": "11:00 - 19:00",
+    "location": "Beyet",
+    "title": "Film containing the names of all graduates throughout the day",
     "organisation": "CO-CB"
   },
   "event4": {
-    "time": "11:00 - 17:30",
-    "location": "WBH02B09",
-    "title": "Diploma-uitreiking",
+    "time": "11:00 - 19:00",
+    "location": "Arena",
+    "title": "Exhibition of all graduates’ work",
     "organisation": "CO-CB"
   },
   "event5": {
-    "time": "11:00 - 19:00",
-    "location": "Beyet",
-    "title": "Doorlopend film met alle namen als aftiteling",
-    "organisation": "CO-CB"
+    "time": "12:00 - 20:00",
+    "location": "AoA",
+    "title": "Interactive Exhibition throughout the day",
+    "organisation": "tbc"
   },
   "event6": {
-    "time": "11:00 - 19:00",
-    "location": "Arena",
-    "title": "Expositie van alle afstudeerwerken van CO-CB",
-    "organisation": "CO-CB"
+    "time": "12:00 - 20:00",
+    "location": "Dome",
+    "title": "Exhibition HBO-ICT",
+    "organisation": "HBO-ICT"
   },
   "event7": {
     "time": "12:00 - 20:00",
-    "location": "AoA",
-    "title": "Doorlopende expositie",
-    "organisation": "?"
+    "location": "Dome2",
+    "title": "Exhibition MDD",
+    "organisation": "tbc"
   },
   "event8": {
     "time": "12:00 - 20:00",
-    "location": "Dome",
-    "title": "Expositie HBO-ICT",
-    "organisation": "HBO-ICT"
+    "location": "Arena",
+    "title": "Exhibition Research Institute",
+    "organisation": "tbc"
   },
   "event9": {
-    "time": "12:00 - 20:00",
-    "location": "Dome2",
-    "title": "Expositie MDD",
-    "organisation": "MDD"
-  },
-  "event10": {
-    "time": "12:00 - 20:00",
-    "location": "Arena",
-    "title": "Expositie Kenniscentrum",
-    "organisation": "Kenniscentrum"
-  },
-  "event11": {
     "time": "15:00 - 16:00",
     "location": "Plein",
-    "title": "Experience game",
-    "organisation": "Kenniscentrum"
+    "title": "Experience Game",
+    "organisation": "Research Insititute"
   },
-  "event12": {
+  "event10": {
     "time": "16:00 - 18:00",
     "location": "Plein",
-    "title": "Borrel en expositie voor stakeholders en partners MDD",
+    "title": "Drinks and exhibition for stakeholders & partners MDD",
     "organisation": "MDD"
   },
-  "event13": {
-    "time": "17:30 - 18:30",
-    "location": "Broedplaats",
-    "title": "Alumni bijeenkomst CO-CB",
-    "organisation": "CO-CB"
-  },
-  "event14": {
-    "time": "18:30 - 19:30",
-    "location": "Broedplaats",
-    "title": "Borrel Alumni CO-CB",
-    "organisation": "CO-CB"
-  },
-  "event15": {
-    "time": "18:00 - 18:30",
-    "location": "Floor",
-    "title": "Book Launch",
-    "organisation": "CO-CB"
-  },
-  "event16": {
-    "time": "18:30 - 19:00",
-    "location": "Floor",
-    "title": "Borrel Book Launch",
+  "event11": {
+    "time": "17:30 - 19:30",
+    "location": "Plein",
+    "title": "Alumni gathering CO-CB",
     "organisation": "CO-CB"
   }
 }

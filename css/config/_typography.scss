@@ -67,3 +67,7 @@ small, .text_small {font-size: 0.75em;}
 .default p {
   column-width: 35em;
 }
+
+.default h1 {
+  color: $primary;
+}

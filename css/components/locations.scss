@@ -1,0 +1,10 @@
+.locations {
+  @mixin reset-list;
+
+  li {
+    font-size: 1.333em;
+    border-bottom: 1px solid $primary;
+    padding: $p-m 0;
+    width: 35vw;
+  }
+}

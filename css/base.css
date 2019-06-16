@@ -22,5 +22,6 @@
 @import 'components/button.scss';
 @import 'components/article.scss';
 @import 'components/quote.scss';
+@import 'components/locations.scss';
 
 @import-normalize;

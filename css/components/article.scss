@@ -1,14 +1,21 @@
 article {
-  background: $primary;
-  color: $secondary;
-  padding: $p-m;
-  min-width: 25%;
+  background: $secondary;
+  color: $black;
+  padding: $p-l;
+  max-width: 25%;
+  margin-bottom: 5vh;
 
   a {
     display: block;
   }
-}
 
-article:not(:last-child) {
-  margin-right: $p-l;
+  img {
+    height: 15vh;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  h4 {
+    color: $primary;
+  }
 }

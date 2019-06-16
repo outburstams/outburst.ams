@@ -1,5 +1,13 @@
-.showcase .container {
+.container {
+  grid-column: 2 / -2;
   display: flex;
-  justify-content: space-around;
-  margin-bottom: 5vh;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.showcase {
+  background: $primary;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  padding: 5vh 0;
 }

@@ -19,6 +19,7 @@ header {
 
 header h1 {
   font-size: 4.209em;
+  line-height: 1;
 }
 
 header h2 {
@@ -47,4 +48,9 @@ header time {
 
 .dynamic-logo {
   transform: scale(1.2);
+}
+
+.font-light {
+  font-family: 'Cocogoose-Pro-Light', sans-serif;
+  font-size: 3rem;
 }

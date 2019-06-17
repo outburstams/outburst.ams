@@ -47,7 +47,7 @@
 
   nav {
     flex-wrap: wrap;
-    height: 10vh;
+    height: 15vh;
 
     img {
       width: 40vw;
@@ -58,5 +58,36 @@
       width: 100%;
       margin-top: $p-m;
     }
+  }
+
+  blockquote {
+    text-align: left;
+  }
+
+  h3 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+  }
+
+  .showcase {
+    grid-template-columns: 5vw 1fr 5vw;
+  }
+
+  .program {
+    height: 55vh;
+    padding: 2vh;
+  }
+
+  .locations {
+    height: 55vh;
+    padding: 2vh;
+  }
+
+  .info,
+  .contact {
+    margin: 0;
   }
 }

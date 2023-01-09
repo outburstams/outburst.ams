@@ -58,6 +58,6 @@
     }
   },
   "dependencies": {
-    "luxon": "^1.15.0"
+    "luxon": "^2.5.2"
   }
 }
